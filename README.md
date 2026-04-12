@@ -89,7 +89,7 @@ Currently diving deeper into **Web3**, **Smart Contracts** with Solidity, and **
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ashfaque-Khan-AK&theme=radical&hide_border=false&card_width=495&border=E5E7EB&border_radius=12&background=FFFFFF&stroke=E5E7EB&ring=3B82F6&fire=3B82F6&currStreakNum=1F2937&sideNums=1F2937&currStreakLabel=3B82F6&sideLabels=6B7280&dates=9CA3AF" alt="Ashfaque Khan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ashfaque-Khan-AK&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ---
