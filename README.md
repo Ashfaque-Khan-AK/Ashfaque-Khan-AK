@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashfaque Khan (AK)
+# 👋 Hi there, I'm AshfaQue (AK)
 
 [![GitHub followers](https://img.shields.io/github/followers/Ashfaque-Khan-AK?label=Follow&style=social)](https://github.com/Ashfaque-Khan-AK)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ashfaque-ali)
