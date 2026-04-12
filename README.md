@@ -53,9 +53,9 @@ Currently diving deeper into **Web3** and **Smart Contracts** with Solidity.
 
 ## 📈 GitHub Stats
 
-![Ashfaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashfaque-Khan-AK&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaque-Khan-AK&layout=compact&theme=radical)
+![Ashfaque's GitHub stats](https://github-stats-alpha.vercel.app/api?username=Ashfaque-Khan-AK&cc=000&tc=fff&ic=fff&bc=000)
 
+![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=Ashfaque-Khan-AK&theme=dark)
 ---
 
 ## 📫 Let's Connect
