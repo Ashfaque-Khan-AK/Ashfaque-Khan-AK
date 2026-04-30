@@ -6,15 +6,11 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/Ashfaque-Khan-AK?label=Follow&style=social)](https://github.com/Ashfaque-Khan-AK)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ashfaque-ali)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishfaque7878@gmail.com)
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashfaque-Khan-AK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 ###
 
