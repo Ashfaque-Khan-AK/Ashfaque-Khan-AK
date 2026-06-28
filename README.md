@@ -2,17 +2,12 @@
   <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 </div>
 
-###
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ashfaque-ali)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishfaque7878@gmail.com)
 
 </div>
-
-
-###
 
 <h1 align="center">Hey there, I'm AshfaQue (AK) 👋</h1>
 
@@ -29,8 +24,6 @@ Currently diving deeper into **Web3**, **Smart Contracts** with Solidity, and **
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can debug CSS in my sleep (almost 😅), and I find patterns in data fascinating!
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
@@ -42,6 +35,7 @@ Currently diving deeper into **Web3**, **Smart Contracts** with Solidity, and **
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### 🤖 Machine Learning & Data Science
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -72,6 +66,14 @@ Currently diving deeper into **Web3**, **Smart Contracts** with Solidity, and **
 ![Swagger UI](https://img.shields.io/badge/-Swagger%20UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🚀 DevOps & Server Management
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VPS](https://img.shields.io/badge/-VPS%20Hosting-0078D4?style=for-the-badge&logo=hostinger&logoColor=white)
+
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -80,14 +82,10 @@ Currently diving deeper into **Web3**, **Smart Contracts** with Solidity, and **
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ashfaque-Khan-AK&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
----
 
 ⭐️ *Feel free to explore my repos and drop a star if you find something useful!*
